@@ -5,7 +5,7 @@ For nothing just fun.
 
 #### Website Demo
 
-https://game.neptunia.top/ (synthesis Rem)
+https://game.neptunia.top/ (synthesis Rem)  <br><br>
 https://puzzle.neptunia.top/ (puzzle game Rem)
 
 Only mobile browsing is supported, or you can use Developer-Tools in PC browser.
