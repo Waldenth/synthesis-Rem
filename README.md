@@ -1,11 +1,12 @@
-# synthesis-rem
+# synthesis-Rem
 参考项目 https://github.com/bullhe4d/bigwatermelon
 
 For nothing just fun.
 
 #### Website Demo
 
-https://game.neptunia.top/
+https://game.neptunia.top/ (synthesis Rem)
+https://puzzle.neptunia.top/ (puzzle game Rem)
 
 Only mobile browsing is supported, or you can use Developer-Tools in PC browser.
 
