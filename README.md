@@ -1,5 +1,5 @@
 # synthesis-rem
-合成大雷姆 参考项目 https://github.com/bullhe4d/bigwatermelon
+参考项目 https://github.com/bullhe4d/bigwatermelon
 
 For nothing just fun.
 
